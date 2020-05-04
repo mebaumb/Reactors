@@ -7,7 +7,7 @@
 
 Welcome to Microsoft's Reactor Workshop Content Repo!
 
-In this repo you will find various resources for workshops that Microsoft runs around the world in each of the Reactor locations. If you find any errors or have ideas for improvements, we welcome you to contribute to this repo by opening a PR.
+In this repo you will find various resources for workshops that Microsoft runs around the world in each of the Reactor locations. If you find any errors or have ideas for improvements, we welcome you to contribute to this repo by opening a PR. This is an update. 
 
 For more information about the Microsoft Reactors and for other Microsoft and Community events, visit the [Reactor Website](https://developer.microsoft.com/reactor/).
 
